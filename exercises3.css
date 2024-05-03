@@ -1,0 +1,13 @@
+
+td {
+    border: 1px solid #276145;
+     padding: 10px;
+}
+tr:nth-child(even)
+{
+     background-color : #e41d1d;
+}
+tr:nth-child(8){
+    color: green;
+}
+
